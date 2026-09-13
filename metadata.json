@@ -1,0 +1,6 @@
+{
+  "name": "Panel de Control Personal",
+  "description": "Panel de control personal centralizado con Centro Financiero, Planificador Académico de Ingeniería e Informes Diarios de Mercados e IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
